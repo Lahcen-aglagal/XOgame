@@ -1,0 +1,56 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+.container{
+    margin: 100px auto;
+    width: 100px;
+}
+.container h1{
+    text-align: center;
+}
+.container input{
+    background-color:#9CDCFE ;
+    border: none;
+    border-radius: 10px;
+    width: 50px;
+    height: 50px;
+    margin: 2px 0px;
+    text-align: center;
+    outline: none;
+    font-size: 40px;
+    padding-bottom: 10px;
+    cursor: pointer;
+}
+.container input:hover{
+    background-color: #75cfff;
+}
+div{
+    text-align: center;
+}
+.container button{
+    margin-top:10px;    
+}
+.neon-text {
+    position: relative;
+    font-family: 'Pacifico', cursive;
+    text-transform: uppercase;
+    font-size: 30px;
+    background-color: #ecedee;
+    height:  80px;
+    padding-top: 10px;
+  }
+  .result
+  {
+    position: absolute;
+    left:47%;
+    top: 70%;
+    text-align: center;
+  }
+  #print{
+    background-color: transparent;
+    border: none;
+    color: black;
+    font-family: 'Pacifico', cursive;
+    outline:none ;
+  }
